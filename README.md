@@ -19,6 +19,7 @@ Each folder contains code from that phase. No copy-paste — everything written 
 | Date | Topic | File |
 |------|-------|------|
 | 2026-06-04 | OOP Basics — classes, inheritance, magic methods, properties | `Phase0/PythonOOPbasics.py` |
+| 2026-06-08 | Advanced Python — decorators, generators, *args/**kwargs, comprehensions | `Phase0/advanced_python.py` |
 
 ## Goal
 
